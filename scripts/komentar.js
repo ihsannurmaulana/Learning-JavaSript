@@ -1,1 +1,1 @@
-document.writeln("<p>Komentar Include</p>");
+document.writeln("<p>Komentar menggunakan Include </p>");
